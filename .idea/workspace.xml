@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ef73c5fd-d023-4a2c-a990-12bc4d7ee175" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booking-microservices-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/booking-microservices-dev.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
